@@ -7,9 +7,10 @@
 
 ![Video Title](https://github.com/sumair0/speakDocGPT/blob/main/etc/speakDocGPT_illustration.mp4)
 
-<video width="640" height="480" controls>
-  <source src="https://github.com/sumair0/speakDocGPT/blob/main/etc/speakDocGPT_illustration.mp4" type="video/mp4">
-</video>
+
+https://github.com/sumair0/speakDocGPT/assets/22148901/82a11a5f-db88-4503-b0e1-31168eeaa87c
+
+
 
 ## Features
 - **Context-aware chatbot**: The chatbot is capable of understanding and responding to user queries based on the content of the uploaded PDF document.
