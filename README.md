@@ -5,9 +5,6 @@
 
 ## Illustration
 
-![Video Title](https://github.com/sumair0/speakDocGPT/blob/main/etc/speakDocGPT_illustration.mp4)
-
-
 https://github.com/sumair0/speakDocGPT/assets/22148901/82a11a5f-db88-4503-b0e1-31168eeaa87c
 
 
